@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm azuki</h1>
+<h1 align="center">Hi everyone 👋, I'm azuki</h1>
 <h3 align="center">A new users from japan</h3>
 
 - 🔭 I’m currently working on **?**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python**
 
 <p align="left">
 </p>
