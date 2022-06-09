@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm azuki</h1>
-<h3 align="center">A new users from japan</h3>
+<h3 align="center">A new users from Japan</h3>
 
 - 🔭 I’m currently working on **?**
 
