@@ -1,12 +1,11 @@
-<h1 align="center">Hi everyone 👋, I'm azuki</h1>
-<h3 align="center">A new users from Japan</h3>
+```
+[azuki@azu0609 ~]$ profile
+      /\\       azuki@azu0609
+     /  \\      -------------
+    /\\   \\    Hello, everyone.
+   /      \\    A new users from japan.
+  /   ,,   \\   I'm working on: 
+ /   |  |  -\\  I'm learning: Python
+/_-''    ''-_\\
 
-- 🔭 I’m currently working on **?**
-
-- 🌱 I’m currently learning **Python**
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```
