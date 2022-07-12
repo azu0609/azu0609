@@ -1,5 +1,5 @@
 ```
-[azuki@azu0609 ~]$ profile
+azu0609@azuki-host ~> profile
       /\\       azuki@azu0609
      /  \\      -------------
     /\\   \\    Hello, everyone.
