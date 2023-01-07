@@ -1,6 +1,6 @@
 <div align=center>
          <p align=center>
-                  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+mono&size=24&pause=1000&color=ADCCF7&center=true&vCenter=true&width=435&lines=Nothing+here" alt="Typing SVG" /></a>
+                  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+everyone;I'm+azuki" alt="Typing SVG" /></a>
          </p>
          <samp>
                   <strong>
@@ -11,4 +11,5 @@
                            <p>MCID: azu0609</p>
                   </strong>
          </samp>
+         <img src="https://user-images.githubusercontent.com/91050580/211146126-e22db608-00f9-4862-9e55-c761e82c2fc5.svg">
 </div>
