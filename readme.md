@@ -5,8 +5,9 @@
          <samp>
                   <strong>
                            Distro hopper from japan
-                           <p>i like minecraft and osu! game</p>
-                           <p>Playing minecraft 2 years and playing osu 6 month</p>
+                           <p>I like minectaft and osu! gamee</p>
+                           <p>I can't speak english but i like english</p>
+                           <p>Playing minecraft like 2 years and playing osu like 6 month</p>
                            <a href="https://osu.ppy.sh/users/azu0609">osu! profile</a>
                            <p>MCID: azu0609</p>
                   </strong>
