@@ -5,7 +5,7 @@
          <samp>
                   <strong>
                            Distro hopper from japan
-                           <p>I like minectaft and osu! gamee</p>
+                           <p>I like minectaft and osu! game</p>
                            <p>I can't speak english but i like english</p>
                            <p>Playing minecraft like 2 years and playing osu like 6 month</p>
                            <a href="https://osu.ppy.sh/users/azu0609">osu! profile</a>
