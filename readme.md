@@ -12,5 +12,5 @@
                            <p>MCID: azu0609</p>
                   </strong>
          </samp>
-         <img src="https://user-images.githubusercontent.com/91050580/218290825-6481a466-587e-48ff-a140-189fabd85898.svg">
+         <img src="https://user-images.githubusercontent.com/91050580/222937402-b9fcfb68-cad7-49f5-af77-701cc9ef51b4.svg">
 </div>
