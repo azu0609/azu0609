@@ -1,6 +1,6 @@
 <div align=center>
          <p align=center>
-                  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Source+code+pro&pause=1000&color=78DBA9&center=true&vCenter=true&width=435&lines=Hello+everyone;I'm+azuki." alt="Hello everyone, i'm azuki" /></a>
+                  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Source+code+pro&pause=1000&color=78DBA9&center=true&vCenter=true&width=435&lines=Hello+everyone;azu0609 here" alt="Hello everyone" /></a>
          </p>
          <samp>
                   <strong>
