@@ -18,7 +18,9 @@
   <br/>
   &nbsp;&nbsp;&nbsp;<strong> > OrangeCTSFix</strong> – On-device app that fixes Circle to Search.
   <br/>
-  <strong> > ▓▓▒▒▒░░</strong> – Yet Another music downloader. Coming soon?
+  <strong> > ██▓▒░░░</strong> – Yet Another music downloader. Coming soon?
+  <h3>Stack</h3>
+  Python / Swift / TypeScript / Linux
   <h3>Contact</h3>
   <a href="mailto:azu06091@gmail.com">Email me!</a>
   <br/>
