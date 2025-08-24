@@ -13,6 +13,7 @@
   <br/>
   <br/>
   <p>I'm Japanese dev making stuff for myself and sometimes others.</p>
+  <p>I build things because I'm bored and existing software sometimes just isn't gonna make it.</p>
   <h3>Current Projects</h3>
   <strong> > OrangeTool</strong> – A CLI tool containing a collection of utilities for OriginOS 5.
   <br/>
