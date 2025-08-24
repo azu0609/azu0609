@@ -1,6 +1,6 @@
 <samp>
   <div id="user-content-toc">
-    <ul align="center" style="list-style: none;">
+    <ul style="list-style: none;">
       <summary>
          <h2>Hi, I'm azuki.</h2>
       </summary>
